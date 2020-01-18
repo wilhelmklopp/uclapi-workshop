@@ -2,7 +2,7 @@
 ## UCL API Hackathon
 
 <p align="center">
-  <a href="https://glitch.com/edit/#!/remix/lecture-roulette">
+  <a href="https://glitch.com/edit/#!/remix/lecture-roulette-starter">
     <img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix With Glitch">
   </a>
 </p>
@@ -27,7 +27,7 @@ Follow along live: `<link to come>`
 - Understand Simple Poll API
 
 ### Workshop steps
-1. Create your Glitch app by following this link: https://glitch.com/edit/#!/remix/lecture-roulette
+1. Create your Glitch app by following this link: https://glitch.com/edit/#!/remix/lecture-roulette-starter
 1. Wait for Glitch to load and for it to install all the dependencies. You can see progress by clicking on "Tools" and then "Logs" in the bottom left corner
 1. Go to the .env file and paste in your UCL API token
 1. In a new tab, open the following URL to create your Slack app https://api.slack.com/apps
