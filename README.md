@@ -23,6 +23,7 @@
 - Slack blick kit reference: https://api.slack.com/reference/block-kit/blocks
 
 Follow along live: https://glitch.com/edit/#!/open-boursin
+Fully working app: https://glitch.com/edit/#!/lecture-roulette
 
 ### Goals and learning outcomes
 - Understand Booking object in UCL API
