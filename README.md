@@ -1,6 +1,9 @@
 # Workshop: Build a Slack integration
 ## UCL API Hackathon
 
+![lecture roulette](https://user-images.githubusercontent.com/7718702/72665642-61993e80-3a02-11ea-937d-2db8ca87585f.png)
+
+
 <p align="center">
   <a href="https://glitch.com/edit/#!/remix/lecture-roulette-starter">
     <img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix With Glitch">
