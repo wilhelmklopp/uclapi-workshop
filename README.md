@@ -22,7 +22,7 @@
 - Slack block kit builder: https://api.slack.com/tools/block-kit-builder
 - Slack blick kit reference: https://api.slack.com/reference/block-kit/blocks
 
-Follow along live: `<link to come>`
+Follow along live: https://glitch.com/edit/#!/open-boursin
 
 ### Goals and learning outcomes
 - Understand Booking object in UCL API
